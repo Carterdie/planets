@@ -1,0 +1,5 @@
+
+# Files to ignore
+# All dat files and the results directory
+*.dat
+results/
